@@ -27,7 +27,7 @@ This guide covers setting up AWS AppStream with Active Directory integration (in
 1. Navigate to **Directory Services** → **Set up directory**
 2. Select **AD Connector** → **Next**
 
-![AD Connector Selection](images/ad-connector-selection.png "AD Connector Selection")
+![AD Connector Selection](images/ad-connector-network.png "AD Connector Selection")
 
 3. Choose **Small** or **Large**, depending on expected user volume
 4. Select VPC and private subnets (recommended: NAT gateway access only)
